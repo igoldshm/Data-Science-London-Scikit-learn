@@ -1,8 +1,3 @@
 # Data-Science-London-Scikit-learn
-@misc{data-science-london-scikit-learn,
-    author = {Ben Hamner and Will Cukierski},
-    title = {Data Science London + Scikit-learn},
-    year = {2013},
-    howpublished = {\url{https://kaggle.com/competitions/data-science-london-scikit-learn}},
-    note = {Kaggle}
-}
+## Citation
+Ben Hamner and Will Cukierski. Data Science London + Scikit-learn. https://kaggle.com/competitions/data-science-london-scikit-learn, 2013. Kaggle.
